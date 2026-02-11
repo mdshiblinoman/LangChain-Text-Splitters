@@ -90,7 +90,3 @@ python semantic_meaning_based.py
 - For `length_based.py`, ensure you have a `dl-curriculum.pdf` file in the project directory
 - Adjust `chunk_size` and `chunk_overlap` based on your LLM's context window
 - Semantic splitting provides the best results for mixed-topic documents but requires API calls
-
-## License
-
-MIT
